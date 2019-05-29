@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-well this is fun
+well this was easier than i thought it would be
